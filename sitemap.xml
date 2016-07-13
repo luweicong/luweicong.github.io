@@ -4,7 +4,7 @@
     
     <url>
      <loc>None/</loc>
-     <lastmod>2016-07-11</lastmod>
+     <lastmod>2016-07-13</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -13,7 +13,13 @@
         
     <url>
      <loc>None/Blog/tibet_6year/tibet_6year/</loc>
-     <lastmod>2016-07-11</lastmod>
+     <lastmod>2016-07-13</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/Blog/goodbye/goodbye/</loc>
+     <lastmod>2016-07-13</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -22,7 +28,7 @@
     
     <url>
      <loc>None/about/</loc>
-     <lastmod>2016-07-11</lastmod>
+     <lastmod>2016-07-13</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
